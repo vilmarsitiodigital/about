@@ -1,6 +1,6 @@
 # Vilmar Batista 
 
-CEO @SitioDigital.
+CTO @SitioDigital.
  
 <a href="https://sitiodigital.com.br" alt="Sítio Digital">
   <img src="https://img.shields.io/badge/site-sitiodigital-brightgreen" />
