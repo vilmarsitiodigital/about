@@ -4,7 +4,7 @@
   <img align="center" src="https://i.imgur.com/uSKHvTy.gif">
 </div> -->
 
-Hello devs 🙂. I am a great enthusiast in the programming area, always learning and always looking for new work partnerships. I believe in my potential and the potential of each one, I am open to new work methodologies and the strength of teamwork.
+🙋🏼‍♂️ Hello devs. I am a great enthusiast in the programming area, always learning and always looking for new work partnerships. I believe in my potential and the potential of each one, I am open to new work methodologies and the strength of teamwork.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vilmarsitiodigital&show_icons=true&theme=dracula)
 
